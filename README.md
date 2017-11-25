@@ -1,5 +1,5 @@
 # LeetCode
-LeetCode Practice by Python
+LeetCode Practice by Python3
 
 
 The Zen of Python, by Tim Peters
